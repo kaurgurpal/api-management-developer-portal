@@ -1,6 +1,6 @@
 {
     "environment": "publishing",
-    "managementApiUrl": "https://<service-name>.management.azure-api.net",
-    "managementApiAccessToken": "SharedAccessSignature...",
+    "managementApiUrl": "https://GurpalDevPortalAPIM.management.azure-api.net",
+    "managementApiAccessToken": "SharedAccessSignature integration&20250503044350&/BACcmxXnq3dxCU9jDl8xO3TfBbHxdkKFuZJxkFzcfaRWyvpyAPewY14SyHE5Nu71hxcGIFnARr42DZ0tvnxRQ==",
     "useHipCaptcha": false
 }
