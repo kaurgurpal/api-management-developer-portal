@@ -1,12 +1,7 @@
 {
     "environment": "development",
-    "managementApiUrl": "https://<service-name>.management.azure-api.net",
-    "managementApiAccessToken": "SharedAccessSignature ...",
-    "backendUrl": "https://<service-name>.developer.azure-api.net",
-    "useHipCaptcha": false,
-    "integration": {
-        "googleFonts": {
-            "apiKey": "<Google API Key>"
-        }
-    }
+    "managementApiUrl": "https://gurpaldevportalapim.management.azure-api.net",
+    "managementApiAccessToken": "SharedAccessSignature integration&20250503044350&/BACcmxXnq3dxCU9jDl8xO3TfBbHxdkKFuZJxkFzcfaRWyvpyAPewY14SyHE5Nu71hxcGIFnARr42DZ0tvnxRQ==",
+    "backendUrl": "https://gurpaldevportalapim.developer.azure-api.net",
+    "useHipCaptcha": false
 }
